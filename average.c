@@ -56,7 +56,7 @@ int main(){
     }
   }
 
-  //printing the stuff
+  //printing the min, max, and average values
   printf("\nMin Value: %d", min);
   printf("\nMax Value: %d", max);
   printf("\nAverage: %.2f", average);
